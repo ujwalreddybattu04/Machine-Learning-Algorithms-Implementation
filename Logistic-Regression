@@ -1,8 +1,0 @@
-Logistic regression is a statistical method used primarily for binary classification—that is, predicting outcomes 
-that can take one of two possible values (like "yes" or "no", "spam" or "not spam"). Here’s a breakdown of how it works:
-
-Tuning Strategies
-Grid Search/Random Search:
-Set up a parameter grid that includes various values for 
-𝐶
-C, different penalties, solvers, and other parameters like max_iter and tol. Use cross-validation to evaluate model performance across these combinations.
